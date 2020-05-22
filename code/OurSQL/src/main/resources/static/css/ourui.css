@@ -1,0 +1,50 @@
+.window{
+    width:600px;
+    height:500px;
+    border:2px solid #CCFF99;
+    margin:50px auto 0;
+    background: #ededed;
+    /*background-image: url("3.jpg");*/
+}
+.record{
+    width:580px;
+    height:420px;
+    border:1px solid #CCFF99;
+    background: antiquewhite;
+    margin:10px auto 0;
+    overflow:auto;
+}
+.input_box{
+    width:580px;
+    margin:10px auto 0;
+}
+#command{
+    width:420px;
+    padding:0px;
+    float:left;
+    margin-left:10px;
+    outline:none;
+    text-indent:10px;
+}
+.system{
+    margin:0px;
+    text-align:left;
+}
+.system span{
+    display:inline-block;
+    background:#BBFFEE;
+    border-radius:10px;
+    color: #5a6268;
+    padding:5px 10px;
+}
+.guest{
+    margin:10px;
+    text-align:right;
+}
+.guest span{
+    display:inline-block;
+    background:#FFFFBB;
+    border-radius:10px;
+    color:#5a6268;
+    padding:5px 10px;
+}
